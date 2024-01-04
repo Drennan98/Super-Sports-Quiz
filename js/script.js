@@ -26,6 +26,9 @@ const questions = [
     }
 ];
 
+function startGame {
+
+}
 
 function showQuestion {
 
