@@ -1,3 +1,11 @@
-function nextQuestion {
+function showQuestion {
+
+}
+
+function testReponse {
     
+}
+
+function nextQuestion {
+
 }
