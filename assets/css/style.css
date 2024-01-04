@@ -26,6 +26,10 @@ button:hover {
     background-color: #3ec300;
 }
 
+#progress {
+    align-content: center;
+}
+
 /* Template found in HubSpot (start) */
 .first {
     border-radius: 0;

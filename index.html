@@ -16,14 +16,16 @@
     <h1>Super Sports Quiz</h1>
     <h2>Test your sports knowledge in this basic quiz!</h2>
   </header>
-
+<!-- Quiz container -->
   <body>
     <div class="quiz-main">
       <p id="question"></p>
       <div id="options" class="options-container"></div>
       <button onclick="nextQuestion()">Next Question</button>
       <p id="score">Current Score: <span id="value">0</span></p>
-      <progress class="first" value="50" max="100"></progress>
+      <div id="progress">
+        <progress class="first" value="50" max="100"></progress>
+      </div>
     </div>
     <script src="assets/js/script.js"></script>
   </body>
