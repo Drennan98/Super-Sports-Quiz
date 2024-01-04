@@ -15,3 +15,7 @@ header {
     background-color: #3ec300;
     height: 130px;
 }
+
+button:hover {
+    background-color: #3ec300;
+}
