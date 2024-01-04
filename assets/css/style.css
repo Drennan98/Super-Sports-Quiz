@@ -3,7 +3,7 @@
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-/* General styles */ 
+/* General styles */
 h1 {
     text-align: center;
     font-size: 3em;
@@ -25,6 +25,7 @@ header {
 button:hover {
     background-color: #3ec300;
 }
+
 /* Template found in HubSpot (start) */
 .first {
     border-radius: 0;
@@ -40,4 +41,5 @@ button:hover {
 .first::-webkit-progress-value {
     background-color: purple;
 }
+
 /* Template found in HubSpot (end) */
