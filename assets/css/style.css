@@ -26,4 +26,15 @@ button:hover {
     background-color: #3ec300;
 }
 
+.instructions {
+    text-align: center;
+}
 
+#score {
+    text-align: center; 
+    font-weight: 900;
+}
+
+.quiz-main {
+    
+}

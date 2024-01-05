@@ -1,3 +1,5 @@
+console.log('script.jsrunning');
+
 const questions = [
     {
         question: "Tiger Woods won his first major in over a decade at which tournament in 2019?",
@@ -26,21 +28,33 @@ const questions = [
     }
 ];
 
-document.addEventListener("DOMContentLoaded", function () {
-    let buttons = document.getElementsByTagName("button");
+let currentQuestion = 0;
 
-function startGame {
-
-}
-
-function showQuestion {
+function startGame() {
 
 }
 
-function checkResponse {
+function showQuestion() {
+    const question = document.getElementById("quiz-main");
+    // for (let i = 0; i <questions.length; i++) {
+    //     console.log(showQuestion());
+    // }
+}
+
+showQuestion();
+
+function checkResponse() {
 
 }
 
-function nextQuestion {
+function nextQuestion() {
+    const nextQuestion = questions[currentQuestion];
+    const question = document.getElementById("question");
+    question.innerHTML = nextQuestion.question;
+    console.log(currentQuestion);
+    currentQuestion++;
+}
+
+function showResults() {
 
 }
