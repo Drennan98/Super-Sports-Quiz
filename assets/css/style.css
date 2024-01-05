@@ -30,20 +30,3 @@ button:hover {
     align-content: center;
 }
 
-/* Template found in HubSpot (start) */
-.first {
-    border-radius: 0;
-    border: 2px solid purple;
-    height: 30px;
-    width: 250px;
-}
-
-.first::-webkit-progress-bar {
-    background-color: white;
-}
-
-.first::-webkit-progress-value {
-    background-color: purple;
-}
-
-/* Template found in HubSpot (end) */
