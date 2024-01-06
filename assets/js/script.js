@@ -31,6 +31,11 @@ const questions = [
 let currentQuestion = 0;
 
 function startGame() {
+    const nextQuestion = questions[currentQuestion];
+    const question = document.getElementById("question");
+    question.innerHTML = nextQuestion.question;
+    console.log(currentQuestion);
+    currentQuestion++;
 
 }
 

@@ -31,10 +31,12 @@ button:hover {
 }
 
 #score {
-    text-align: center; 
+    text-align: center;
     font-weight: 900;
 }
 
-.quiz-main {
-    
+.quiz-main {}
+
+a {
+    text-decoration: none;
 }
