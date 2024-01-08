@@ -1,5 +1,3 @@
-console.log("script.jsrunning");
-
 const questions = [
   {
     question:
