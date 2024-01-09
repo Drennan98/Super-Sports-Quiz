@@ -26,12 +26,15 @@
         <li>See your results!</li>
         <li>Press "Super Sports Quiz" at the top of the page to restart the game</li>
     </ol>
+    <div class="quiz">
+        <p id="questions"></p>
+    <div id="answers"></div>
+    <p id="show-result"></p>
     </div>
-    <div class="quiz-body">
-        <p id="question"></p>
-      <div class = "center">
+    <div>
+      <div class="center">
         <button onclick="nextQuestion()">Next Question</button>
-        <button onclick="checkResponse()">Submit Answer</button>
+        <button id="answer" onclick="checkResponse()">Submit Answer</button>
         <button>Start Game</button>
       </div>
     </div>

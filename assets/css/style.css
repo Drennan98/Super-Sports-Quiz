@@ -7,6 +7,7 @@
 h1 {
     text-align: center;
     font-size: 3em;
+    color: black;
 }
 
 h2 {
@@ -34,13 +35,20 @@ button:hover {
     background-color: #3ec300;
 }
 
-button .instructions {
+button {
     text-align: center;
+    font-size: 1.25em
 }
 
 #score {
     text-align: center;
     font-weight: 900;
+    font-size: 1.25em
+}
+
+.instructions {
+    text-align: center;
+    list-style-type: none;
 }
 
 .quiz-main {}
