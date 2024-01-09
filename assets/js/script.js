@@ -1,8 +1,7 @@
 // Array of questions to be used for the quiz
 const questions = [
     {
-        question:
-            "Tiger Woods won his first major in over a decade at which tournament in 2019?",
+        question: "Tiger Woods won his first major in over a decade at which tournament in 2019?",
         options: ["The US Open, The Masters, The Open, The US PGA Championship"],
         answer: "The Masters",
     },
@@ -33,31 +32,35 @@ const questions = [
 
 let currentQuestion = 0;
 let score = 0;
-let incorrectAnswers = [];
 
-const quizContainer = document.getElementById("quiz");
-const questionsElement = document.getElementById("questions");
-const resultElement = document.getElementById("show-result");
-const submitButton = document.getElementById("submit");
 
 // Functions to be used for the quiz 
 
 function startGame() {
 
-}
-
-function showQuestion() {
-    const questionData = quizData[currentQuestion];
-
-
 
 }
 
-function checkAnswer(event) {
+function showQuestion(question:) {
+    questions[currentQuestion].question;
+    console.log(showQuestion);
+}
+
+function checkAnswer(answer:) {
+    const currentQuizData = questions[currentQuestion];
+    if (answer === currentQuizData.answer) {
+        score++;
+    }
+    currentQuestion++;
+    if (currentQuestion < questions.length) {
+        showQuestion();
+    } else {
+        displayScore();
+    }
     // check the innerHTML of the chosen option with the questions[currentQuestion].answer and the currentQuestion index number
     // if its correct, increase the users score
     // increase the current question index
-    currentQuestion++;
+
     // call the nextQuestion function only if the currentQuestion number is less than the size of the question array
     // if the number is bigger than the size of the array, then the game is over
 }
@@ -66,7 +69,7 @@ function checkAnswer(event) {
 function nextQuestion() {
 
     // important: clear the container that holds the questions and options here
-    for (let i = 0; i < questions.length; i++);
+
     const currentQuestion = questions[currentQuestion].options;
     const question = document.getElementById("question");
     question.innerHTML = nextQuestion.question;

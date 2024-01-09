@@ -39,6 +39,10 @@ button:hover {
     background-color: #3ec300;
 }
 
+#center {
+    text-align: center;
+}
+
 button {
     text-align: center;
     font-size: 1.25em
