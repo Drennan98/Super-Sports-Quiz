@@ -14,23 +14,27 @@ h2 {
     text-align: center;
 }
 
+.quiz {
+    text-align: center;
+}
+
 ol {
     line-height: 2;
+    font-size: 1.25em;
 }
 
+/* Palette from Coolors */
 body {
-    background-color: #F9E900;
+    background-color: #DDD1C7;
 }
 
+/* Palette from Coolors */
 header {
     background-color: #3ec300;
     height: 130px;
 }
 
-.center {
-    text-align: center;
-}
-
+/* Palette from Coolors */
 button:hover {
     background-color: #3ec300;
 }
@@ -50,8 +54,6 @@ button {
     text-align: center;
     list-style-type: none;
 }
-
-.quiz-main {}
 
 a {
     text-decoration: none;

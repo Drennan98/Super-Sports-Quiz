@@ -1,3 +1,4 @@
+// Array of questions to be used for the quiz
 const questions = [
     {
         question:
@@ -28,16 +29,27 @@ const questions = [
     },
 ];
 
+// Declaring variables
+
 let currentQuestion = 0;
 let score = 0;
+let incorrectAnswers = [];
 
-const 
+const quizContainer = document.getElementById("quiz");
+const questionsElement = document.getElementById("questions");
+const resultElement = document.getElementById("show-result");
+const submitButton = document.getElementById("submit");
+
+// Functions to be used for the quiz 
 
 function startGame() {
 
 }
 
 function showQuestion() {
+    const questionData = quizData[currentQuestion];
+
+
 
 }
 
@@ -68,6 +80,6 @@ function nextQuestion() {
 
     // add event listener to options using a loop again currentQuestion++;
 
-function displayScore() {
+    function displayScore() {
 
-}
+    }
