@@ -27,6 +27,7 @@ const questions = [
         answer: 2,
     },
 ];
+
 // Declaring variables
 const intro = document.getElementById("preamble");
 const question = document.getElementById("question");
@@ -35,18 +36,25 @@ const answer1 = document.getElementById("answer1");
 const answer2 = document.getElementById("answer2");
 const answer3 = document.getElementById("answer3");
 const currentScore = document.getElementById("value");
-let currentQuestion = 0;
-let score = 0;
+let currentQuestion = 0; // Question the player is currently on 
+let score = 0; // Player score
+
 // Functions to be used for the quiz 
 function startGame() {
-  intro.style.visibility = "hidden";
-  loadQuestion(currentQuestion);
-  loadAnswers(currentQuestion);
+    intro.style.visibility = "hidden";
+    loadQuestion(currentQuestion);
+    loadAnswers(currentQuestion);
 }
+
 function showQuestion(question) {
     questions[currentQuestion].question;
     console.log(showQuestion);
 }
+
+function displayScore() {
+    currentScore.innerText = score.toString();
+}
+
 function checkAnswer(answer) {
     const currentQuizData = questions[currentQuestion];
     if (answer === currentQuizData.answer) {
@@ -60,33 +68,39 @@ function checkAnswer(answer) {
     }
 }
 /**
- * This function DO DOCSTRINGS LIKE THIS....
+ * 
  */
 function loadQuestion() {
     question.innerText = questions[currentQuestion].question;
 }
+
 function loadAnswers(currentQuestion) {
     answer0.innerText = questions[currentQuestion].options[0];
     answer1.innerText = questions[currentQuestion].options[1];
     answer2.innerText = questions[currentQuestion].options[2];
     answer3.innerText = questions[currentQuestion].options[3];
 }
+
 function checkAnswer(choice) {
     if (choice === questions[currentQuestion].answer) {
-      score = score + 1;
-      displayScore();
+        score = score + 1;
+        displayScore();
     }
     currentQuestion = currentQuestion + 1;
+
     inGameLoop();
 }
 function inGameLoop() {
-  // check if end of game else ...
-  loadQuestion(currentQuestion);
-  loadAnswers(currentQuestion);
-}
-function displayScore() {
-  currentScore.innerText = score.toString();
-}
-function endGame() {
-    console.log("End of game! Thanks for playing!");
-}
+    // check if end of game...
+    if (currentQuestion < questions.length) {
+        loadQuestion();
+        loadAnswers();
+    } else {
+        endGame();
+    }
+
+    function endGame() {
+        console.log("End of game! Thanks for playing!");
+    }
+
+    startGame();
