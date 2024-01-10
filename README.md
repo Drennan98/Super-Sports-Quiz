@@ -6,13 +6,17 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 # Design
 
-## Color Palette
+##  Color Palette
 
 #DDD1C7, #3ec300
 
-## Fonts 
+##  Fonts 
 
 The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 ## Layout 
+
+# Credits 
+
+ - My mentor Spencer for his patience and guidance. 
 
