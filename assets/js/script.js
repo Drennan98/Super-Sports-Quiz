@@ -102,5 +102,3 @@ function inGameLoop() {
     function endGame() {
         console.log("End of game! Thanks for playing!");
     }
-
-    startGame();
