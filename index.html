@@ -31,6 +31,7 @@
           <button onclick="startGame();">Start Game</button>
       </div>
     </div>
+    <div id="gameArea">
     <div id="question"></div>
     <div id="center">
       <button id="answer0" onclick="checkAnswer(0);"></button>
@@ -39,6 +40,14 @@
       <button id="answer3" onclick="checkAnswer(3);"></button>
   </div>
     <p id="score">Current Score: <span id="value">0</span></p>
+  </div>
+  <div id="endGameDiv">
+    <h2>Well done you finished the game!</h2>
+    <h2>You scored a total of <span id="points"></span>.</h2>
+    <button onclick="window.location.reload();">Try Again</button>
+
+  </div>
+
 <!-- Script -->
     <script src="assets/js/script.js"></script>
   </body>
