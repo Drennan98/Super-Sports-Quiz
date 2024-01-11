@@ -18,6 +18,12 @@ h2 {
     text-align: center;
 }
 
+#question {
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+}
+
 ol {
     line-height: 2;
     font-size: 1.25em;
