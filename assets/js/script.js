@@ -27,7 +27,6 @@ const questions = [
         answer: 2,
     },
 ];
-
 // Declaring variables
 const intro = document.getElementById("preamble");
 const question = document.getElementById("question");
@@ -41,49 +40,37 @@ const currentScore = document.getElementById("value");
 const endGameArea = document.getElementById("endGameDiv");
 let currentQuestion = 0; // Question the player is currently on 
 let score = 0; // Player score
-
 endGameArea.style.visibility = "hidden";
 gameArea.style.visibility = "hidden";
-
-// Functions to be used for the quiz 
+/**
+ * 
+ */
 function startGame() {
     intro.style.visibility = "hidden";
     gameArea.style.visibility = "visible";
     inGameLoop();
 }
-
-
 function displayScore() {
     currentScore.innerText = score.toString();
 }
-
-function checkAnswer(choice) {
-    if (choice === question[currentQuestion].answer) {
-    score = score +1;
-    displayScore();
-    }
-    currentQuestion = currentQuestion + 1;
-    inGameLoop();
-}
-
-function loadQuestion() {
+/**
+ * 
+ */
+function loadQuestion(currentQuestion) {
     question.innerText = questions[currentQuestion].question;
 }
-
 function loadAnswers(currentQuestion) {
     answer0.innerText = questions[currentQuestion].options[0];
     answer1.innerText = questions[currentQuestion].options[1];
     answer2.innerText = questions[currentQuestion].options[2];
     answer3.innerText = questions[currentQuestion].options[3];
 }
-
 function checkAnswer(choice) {
     if (choice === questions[currentQuestion].answer) {
         score = score + 1;
         displayScore();
     }
     currentQuestion = currentQuestion + 1;
-
     inGameLoop();
 }
 function inGameLoop() {
@@ -94,15 +81,14 @@ function inGameLoop() {
     } else {
         endGame();
     }
+  }
+
+function endGame() {
+    points.innerText = score.toString();
+    gameArea.style.visibility = "hidden";
+    endGameArea.style.visibility = "visible";
 }
 
-    function endGame() {
-        points.innerText = score.toString();
-        gameArea.style.visibility = "hidden";
-        endGameArea.style.visibilty = "visible"
-        console.log("End of game! Thanks for playing!");
-    }
-
-    function byeBye() {
-        endGameArea.innerHTML = "<h2>Thanks for playing!</h2>"
-    }
+function byeBye() {
+  endGameArea.innerHTML = "<h2>Thanks for playing!</h2>";
+}
