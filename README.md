@@ -29,7 +29,19 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 # Testing
 
 
-# Validations 
+# Validations
+
+- HTML =
+
+- CSS =
+
+- JavaScript =
+
+# Lighthouse Testing
+
+- Phone =
+
+- Desktop =
 
 # Deployment
 
@@ -47,5 +59,5 @@ Set the branch to "main" and click save.
 
 # Credits 
 
- - My mentor Spencer for his patience and guidance. 
+ - My mentor Spencer for his patience and guidance.
 
