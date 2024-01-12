@@ -60,6 +60,10 @@ button {
     font-size: 1.25em
 }
 
+#endGameDiv {
+    text-align: center;
+}
+
 .instructions {
     text-align: center;
     list-style-type: none;
