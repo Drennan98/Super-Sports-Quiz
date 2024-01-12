@@ -4,6 +4,10 @@ This project is inspired by my passion for sport. So I made a quiz containing so
 
 You can find the live version of the site here [here](https://drennan98.github.io/Super-Sports-Quiz).
 
+I went with a sports quiz idea as I'm passionate about sport and thought it would be easy to develop. 
+
+Main technologies used were **HTML, CSS and JavaScript**.
+
 # Features 
 
 - "Super Sports Quiz" is a clickable link which can be reused to start the game at ease. 
@@ -12,7 +16,9 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 ##  Color Palette
 
-#DDD1C7, #3ec300
+The following colors were taken from [Coolors](https://coolors.co/)
+
+#DDD1C7, #3ec300,
 
 ##  Fonts 
 

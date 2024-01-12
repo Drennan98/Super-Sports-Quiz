@@ -42,29 +42,49 @@ let currentQuestion = 0; // Question the player is currently on
 let score = 0; // Player score
 endGameArea.style.visibility = "hidden";
 gameArea.style.visibility = "hidden";
-/**
- * 
+
+/** 
+ * Start Game function which starts the game. 
+ * Once pressed the instructions dissapear 
+ * and you can start answering questions.
  */
 function startGame() {
     intro.style.visibility = "hidden";
     gameArea.style.visibility = "visible";
     inGameLoop();
 }
+
+/**
+ * Function to display score. Score
+ * is converted to a string.
+ */
+
 function displayScore() {
     currentScore.innerText = score.toString();
 }
+
 /**
- * 
+ * Function to load question.
  */
 function loadQuestion(currentQuestion) {
     question.innerText = questions[currentQuestion].question;
 }
+
+/**
+ * Function to load answers. Each question has
+ * 4 options.
+ */
 function loadAnswers(currentQuestion) {
     answer0.innerText = questions[currentQuestion].options[0];
     answer1.innerText = questions[currentQuestion].options[1];
     answer2.innerText = questions[currentQuestion].options[2];
     answer3.innerText = questions[currentQuestion].options[3];
 }
+
+/**
+ * Function for checking answer. Score +1 
+ * if answer is correct.
+ */
 function checkAnswer(choice) {
     if (choice === questions[currentQuestion].answer) {
         score = score + 1;
@@ -73,6 +93,10 @@ function checkAnswer(choice) {
     currentQuestion = currentQuestion + 1;
     inGameLoop();
 }
+
+/**
+ * Function for checking if end of game.
+ */
 function inGameLoop() {
     // check if end of game...
     if (currentQuestion < questions.length) {
@@ -81,14 +105,22 @@ function inGameLoop() {
     } else {
         endGame();
     }
-  }
+}
 
+/**
+ * Function for end game. Will show thanks 
+ * for playing message at the end.
+ */
 function endGame() {
     points.innerText = score.toString();
     gameArea.style.visibility = "hidden";
     endGameArea.style.visibility = "visible";
 }
 
+/**
+ * byeBye function for displaying "Thanks for playing".
+ */
+
 function byeBye() {
-  endGameArea.innerHTML = "<h2>Thanks for playing!</h2>";
+    endGameArea.innerHTML = "<h2>Thanks for playing!</h2>";
 }
