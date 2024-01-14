@@ -4,13 +4,19 @@ This project is inspired by my passion for sport. So I made a quiz containing so
 
 You can find the live version of the site here [here](https://drennan98.github.io/Super-Sports-Quiz).
 
-I went with a sports quiz idea as I'm passionate about sport and thought it would be easy to develop. 
+I went with a sports quiz idea as I'm passionate about sport and thought it would be easy to develop.
 
 Main technologies used were **HTML, CSS and JavaScript**.
 
-# Features 
+# Features
 
-- "Super Sports Quiz" is a clickable link which can be reused to start the game at ease. 
+- "Super Sports Quiz" is a clickable link which can be reused to start the game at ease.
+
+[Home Link](assets/images/SSQclickablelink.png).
+
+- Press "Start Game" to start the game and text your basic sport knowledge.
+  
+[Start Game](assets/images/startgamebutton.png)
 
 # Design
 
@@ -18,13 +24,13 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 The following colors were taken from [Coolors](https://coolors.co/).
 
-- DDD1C7, #3ec300, #C455A8 were some of the colors used. 
+- DDD1C7, #3ec300, #C455A8 were some of the colors used.
 
-##  Fonts 
+##  Fonts
 
 The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
-## Layout 
+## Layo
 
 # Testing
 
@@ -57,7 +63,6 @@ Make sure the source is Deploy from a branch.
 
 Set the branch to "main" and click save.
 
-# Credits 
+# Credits
 
  - My mentor Spencer for his patience and guidance.
-
