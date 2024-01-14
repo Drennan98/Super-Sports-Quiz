@@ -37,7 +37,7 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 # Testing
 
-- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback. 
+- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback.
 
 
 # Validations
