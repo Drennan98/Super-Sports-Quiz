@@ -40,11 +40,6 @@ header {
     height: 130px;
 }
 
-/* Palette from Coolors */
-button:hover {
-    background-color: #3ec300;
-}
-
 #center {
     text-align: center;
 }
