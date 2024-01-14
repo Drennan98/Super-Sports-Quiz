@@ -49,6 +49,10 @@ button:hover {
     text-align: center;
 }
 
+#center-answer {
+    text-align: center;
+}
+
 button {
     text-align: center;
     font-size: 1.25em
