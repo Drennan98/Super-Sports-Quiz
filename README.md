@@ -27,7 +27,7 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 The following colors were taken from [Coolors](https://coolors.co/).
 
-- DDD1C7, #3ec300, #C455A8 were some of the colors used.
+- #DDD1C7, #3ec300, #C455A8 were some of the colors used.
 
 ##  Fonts
 
