@@ -68,7 +68,7 @@ button {
     text-align: center;
     list-style-type: none;
     font-style: italic;
-    text-shadow: 5;
+    text-shadow: 2px 2px 5px black;
     border: 2px solid;
 }
 
