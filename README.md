@@ -18,6 +18,9 @@ Main technologies used were **HTML, CSS and JavaScript**.
   
 ![Start Game](assets/images/startgamebutton.png)
 
+- The project consists of 5 relatively easy sports questions. At the end, the user will have the option to "Try Again" or click "No Thanks"
+  which will then display the message "Thanks for playing".
+
 # Design
 
 ##  Color Palette
