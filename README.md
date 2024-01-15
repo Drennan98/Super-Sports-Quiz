@@ -49,7 +49,10 @@ The following colors were taken from [Coolors](https://coolors.co/).
 
 The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
-## Layo
+## Layout 
+
+- The application features a very simple layout. The heading, "Super Sports Quiz", followed by a very brief introduction of the quiz and finally the 
+start game button.
 
 #  Testing
 
