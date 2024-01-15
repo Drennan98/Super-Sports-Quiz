@@ -21,6 +21,18 @@ Main technologies used were **HTML, CSS and JavaScript**.
 - The project consists of 5 relatively easy sports questions. At the end, the user will have the option to "Try Again" or click "No Thanks"
   which will then display the message "Thanks for playing".
 
+![End Game Options](assets/images/endgameoptions.png)
+
+# Wireframes 
+
+- Desktop
+  
+![Desktop Wireframe](assets/images/desktopwireframe.png)
+
+- Tablet
+
+- Smartphone
+
 # Design
 
 ##  Color Palette
