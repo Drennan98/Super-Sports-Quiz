@@ -1,4 +1,4 @@
-# Welcome to the Super Sports Quiz!
+# Welcome to the Super Sports Quiz
 
 This project is inspired by my passion for sport. So I made a quiz containing some pretty straightforward questions. The quiz is accessible to anyone!
 
@@ -23,7 +23,7 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 ![End Game Options](assets/images/endgameoptions.png)
 
-# Wireframes 
+#  Wireframes
 
 - Desktop
   
@@ -31,7 +31,11 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 - Tablet
 
+![Tablet Wireframe](assets/images/tabletwireframe.png)
+
 - Smartphone
+
+![Smartphone Wireframe](assets/images/smartphonewireframe.png)
 
 # Design
 
@@ -47,12 +51,11 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 ## Layo
 
-# Testing
+#  Testing
 
 - One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback.
 
-
-# Validations
+#  Validations
 
 - HTML =
 
@@ -80,6 +83,6 @@ Make sure the source is Deploy from a branch.
 
 Set the branch to "main" and click save.
 
-# Credits
+#  Credits
 
- - My mentor Spencer for his patience and guidance.
+- My mentor Spencer for his patience and guidance.
