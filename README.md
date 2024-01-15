@@ -58,6 +58,12 @@ start game button.
 
 - One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback.
 
+- I confirmed that this website works on different browsers like Safari and Google Chrome.
+
+- I sent the quiz to some friends to test out the functionality of the quiz and it got a positive response. 
+
+
+
 #  Validations
 
 - HTML =
