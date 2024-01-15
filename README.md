@@ -74,9 +74,9 @@ start game button.
 
 # Lighthouse Testing
 
-- Phone =
+- Phone = ![Phone Lighthouse Report](assets/images/mobilelighthouse.png)
 
-- Desktop =
+- Desktop = ![Desktop Lighthouse Report](assets/images/desktoplighthouse.png)
 
 # Deployment
 
