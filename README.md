@@ -26,15 +26,15 @@ Main technologies used were **HTML, CSS and JavaScript**.
 #  Wireframes
 
 
-## Desktop
+##  Desktop
   
 ![Desktop Wireframe](assets/images/desktopwireframe.png)
 
-## Tablet
+### Tablet
 
 ![Tablet Wireframe](assets/images/tabletwireframe.png)
 
-## Smartphone
+#### Smartphone
 
 ![Smartphone Wireframe](assets/images/smartphonewireframe.png)
 
@@ -101,4 +101,6 @@ Set the branch to "main" and click save.
 
 - My mentor Spencer for his patience and guidance.
 
-- I used my PP1 as a reference to some 
+- I used my PP1 as a reference for my READme structure, but have added some different headings throughout the development process. 
+
+- 
