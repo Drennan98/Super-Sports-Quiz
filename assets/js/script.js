@@ -21,8 +21,7 @@ const questions = [
         answer: 1,
     },
     {
-        question:
-            "How many Formula 1 World Championships does Lewis Hamilton have?",
+        question: "How many Formula 1 World Championships does Lewis Hamilton have?",
         options: ["3", "8", "7", "5"],
         answer: 2,
     },

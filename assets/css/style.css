@@ -4,10 +4,9 @@
 }
 
 /* General styles */
-h1 {
+#heading {
     text-align: center;
     font-size: 3em;
-    color: black;
 }
 
 h2 {
@@ -24,11 +23,6 @@ h2 {
     font-style: italic;
 }
 
-#copyright {
-    text-align: center;
-    font-size: 2em;
-}
-
 ol {
     line-height: 2;
     font-size: 1.25em;
@@ -36,10 +30,9 @@ ol {
 
 /* Palette from Coolors */
 body {
-    background-color: black;
+    background-color: #A03E99;
 }
 
-/* Palette from Coolors */
 header {
     background-color: gold;
     height: 150px;
@@ -53,6 +46,7 @@ header {
 #gameArea {
     background-color: gold;
     border: 13px groove;
+    margin-top: -150px;
 }
 
 #center-answer {
@@ -89,9 +83,12 @@ button {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 #copyright {
+    text-align: center;
+    font-size: 2em;
     font-style: italic;
     border: 13px groove;
     background-color: gold;
