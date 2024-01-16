@@ -61,20 +61,20 @@ header {
 
 button {
     text-align: center;
-    font-size: 1.25em
+    font-size: 1.5em;
+    border-radius: 12px;
 }
 
 #score {
     text-align: center;
     font-weight: 700;
-    font-size: 1.25em
+    font-size: 1.25em;
 }
 
 #endGameDiv {
     text-align: center;
     background-color: gold;
     border: 13px groove;
-    font-size: 2em;
 }
 
 .instructions {
@@ -93,5 +93,5 @@ a {
 #copyright {
     font-style: italic;
     border: 13px groove;
-    background-color: gold
+    background-color: gold;
 }
