@@ -16,7 +16,7 @@
     <title>Super Sports Quiz</title>
   </head>
   <header>
-    <h1><a href="index.html">Super Sports Quiz</a></h1>
+    <h1 id="heading"><a href="index.html">Super Sports Quiz</a></h1>
     <h2>Test your sports knowledge in this basic quiz!</h2>
   </header>
 <!-- Quiz container -->
@@ -35,6 +35,7 @@
     </div>
     <div id="gameArea">
     <div id="question"></div>
+<!-- Options buttons -->
     <div id="center-answer">
       <button id="answer0" onclick="checkAnswer(0);"></button>
       <button id="answer1" onclick="checkAnswer(1);"></button>
@@ -43,6 +44,7 @@
     </div>
     <p id="score">Current Score: <span id="value">0</span></p>
   </div>
+<!-- End Game options -->
   <div id="endGameDiv">
     <h2>Well done you finished the game!</h2>
     <h2>You scored a total of <span id="points"></span>.</h2>
