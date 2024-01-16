@@ -41,8 +41,9 @@ body {
 
 /* Palette from Coolors */
 header {
-    background-color: #3ec300;
-    height: 130px;
+    background-color: gold;
+    height: 150px;
+    border: 13px groove;
 }
 
 #center {
@@ -72,11 +73,17 @@ button {
     text-align: center;
     list-style-type: none;
     font-style: italic;
-    text-shadow: 2px 2px 5px black;
-    border: 2px solid;
+    border: 13px groove;
     font-size: 2.4em;
+    background-color: gold;
 }
 
 a {
     text-decoration: none;
+}
+
+#copyright {
+    font-style: italic;
+    border: 13px groove;
+    background-color: gold
 }
