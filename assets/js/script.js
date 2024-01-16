@@ -122,5 +122,5 @@ function endGame() {
  */
 
 function byeBye() {
-    endGameArea.innerHTML = "<h2>Thanks for playing!</h2>";
+    endGameArea.innerHTML = "<h2>Thanks for playing! :)</h2>";
 }

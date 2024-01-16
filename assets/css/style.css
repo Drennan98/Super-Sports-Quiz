@@ -36,7 +36,7 @@ ol {
 
 /* Palette from Coolors */
 body {
-    background-color: #C455A8;
+    background-color: black;
 }
 
 /* Palette from Coolors */
@@ -50,6 +50,11 @@ header {
     text-align: center;
 }
 
+#gameArea {
+    background-color: gold;
+    border: 13px groove;
+}
+
 #center-answer {
     text-align: center;
 }
@@ -61,12 +66,15 @@ button {
 
 #score {
     text-align: center;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.25em
 }
 
 #endGameDiv {
     text-align: center;
+    background-color: gold;
+    border: 13px groove;
+    font-size: 2em;
 }
 
 .instructions {
