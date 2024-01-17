@@ -8,7 +8,7 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 Main technologies used were **HTML, CSS and JavaScript**.
 
-# Key Project Goals 
+#  Key Project Goals 
 
 - I wanted to make an interactive front-end application and incorporate the JavaScript material I have learned.
 
@@ -83,7 +83,7 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 [HTML Validation Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F).
 
-[CSS Validation results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+[CSS Validation results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 - JavaScript =
 
