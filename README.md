@@ -8,6 +8,18 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 Main technologies used were **HTML, CSS and JavaScript**.
 
+# Key Project Goals 
+
+- I wanted to make an interactive front-end application and incorporate the JavaScript material I have learned.
+
+- I wanted to give the user feedback on their score and I wanted the user to be able to keep track of there score as the game went on.
+
+- I wanted to use colors, fonts and a structure which were easy on the eye.
+
+- I wanted the application to be easy to navigate and user friendly.
+  
+- I put relatively easy questions in the quiz so everyone has a chance to pass. I put in a small amount of questions to keep the user interested. 
+
 # Features
 
 - "Super Sports Quiz" is a clickable link which can be reused to start the game at ease.
