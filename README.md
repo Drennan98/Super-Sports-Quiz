@@ -20,14 +20,13 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 - The project consists of 5 relatively easy sports questions. At the end, the user will have the option to "Try Again" or click "No Thanks"
   which will then display the message "Thanks for playing". There is also a score counter and then the user will get oome feedback at the
-  end on how they scored. 
+  end on how they scored.
 
 ![End Game Options](assets/images/endgameoptions.png)
 
 #  Wireframes
 
-
-##  Desktop
+##   Desktop
   
 ![Desktop Wireframe](assets/images/desktopwireframe.png)
 
@@ -41,10 +40,10 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 # Design
 
-## Planning 
+##  Planning
 
-- The plan was always to keep the application as simple as possible while using simple colors and a basic structure. I'm still pretty new 
-  to coding so I'm trying to keep it as basic as possible while trying my best to meet the criteria. 
+- The plan was always to keep the application as simple as possible while using simple colors and a basic structure. I'm still pretty new
+  to coding so I'm trying to keep it as basic as possible while trying my best to meet the criteria.
 
 ##  Color Palette
 
@@ -56,10 +55,10 @@ The following colors were taken from [Coolors](https://coolors.co/).
 
 The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
-## Layout 
+## Layout
 
-- The application features a very simple layout. The heading, "Super Sports Quiz", followed by a very brief introduction of the quiz and finally the 
-start game button.
+- The application features a very simple layout. The heading, "Super Sports Quiz", followed by the instructions of the quiz on the landing page. The user
+  then has the option to press the "Start Game" button. 
 
 #  Testing
 
@@ -67,9 +66,7 @@ start game button.
 
 - I confirmed that this website works on different browsers like Safari and Google Chrome.
 
-- I sent the quiz to some friends to test out the functionality of the quiz and it got a positive response. 
-
-
+- I sent the quiz to some friends to test out the functionality of the quiz and it got a positive response.
 
 #  Validations
 
@@ -81,11 +78,11 @@ start game button.
 
 # Lighthouse Testing
 
-## Phone 
+##  Phone
 
 ![Phone Lighthouse Report](assets/images/mobilelighthouse.png)
 
-## Desktop 
+## Desktop
 
 ![Desktop Lighthouse Report](assets/images/desktoplighthouse.png)
 
@@ -103,15 +100,15 @@ Make sure the source is Deploy from a branch.
 
 Set the branch to "main" and click save.
 
-# Bugs 
+# Bugs
 
-- I encountered no major bugs throughout deployment. 
+- I encountered no major bugs throughout deployment.
 
 #  Credits
 
 - My mentor Spencer for his patience and guidance.
 
-- I used my PP1 as a reference for my READme structure, but have added some different headings throughout the development process. 
+- I used my PP1 as a reference for my READme structure, but have added some different headings throughout the development process.
 
 - I used various YouTube tutorials on JavaScript as it was a language I was struggling with, I will provide links for these tutorials.
 
