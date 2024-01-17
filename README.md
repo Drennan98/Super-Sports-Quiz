@@ -14,7 +14,7 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 ![Home Link](assets/images/SSQclickablelink.png)
 
-- Press "Start Game" to start the game and text your basic sport knowledge.
+- Press "Start Game" to start the game and test your basic sport knowledge.
   
 ![Start Game](assets/images/startgamebutton.png)
 
