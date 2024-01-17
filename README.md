@@ -12,14 +12,15 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 - "Super Sports Quiz" is a clickable link which can be reused to start the game at ease.
 
-![Home Link](assets/images/SSQclickablelink.png).
+![Home Link](assets/images/SSQclickablelink.png)
 
 - Press "Start Game" to start the game and text your basic sport knowledge.
   
 ![Start Game](assets/images/startgamebutton.png)
 
 - The project consists of 5 relatively easy sports questions. At the end, the user will have the option to "Try Again" or click "No Thanks"
-  which will then display the message "Thanks for playing".
+  which will then display the message "Thanks for playing". There is also a score counter and then the user will get oome feedback at the
+  end on how they scored. 
 
 ![End Game Options](assets/images/endgameoptions.png)
 
@@ -103,4 +104,14 @@ Set the branch to "main" and click save.
 
 - I used my PP1 as a reference for my READme structure, but have added some different headings throughout the development process. 
 
-- 
+- I used various YouTube tutorials on JavaScript as it was a language I was struggling with, I will provide links for these tutorials.
+
+[First Tutorial](https://www.youtube.com/watch?v=rCVqQ8NKU2M&t=120s)
+
+[Second Tutorial](https://www.youtube.com/watch?v=PBcqGxrr9g8&t=386s)
+
+[Third Tutorial](https://www.youtube.com/watch?v=LQGTb112N_c)
+
+[Fourth Tutorial](https://www.youtube.com/watch?v=FOD408a0EzU) (It took me a while to get the hang of functions.)
+
+- Another external resource I used was [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/.)
