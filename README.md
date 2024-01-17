@@ -75,7 +75,7 @@ start game button.
 
 - HTML =
 
-- CSS =
+- CSS = [CSS Validation results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 - JavaScript =
 
