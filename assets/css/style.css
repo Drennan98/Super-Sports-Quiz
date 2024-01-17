@@ -109,5 +109,12 @@ a {
 /* Media queries below */
 
 @media screen and (max-width: 576px) {
+    #heading {
+        font-size: 2em;
+        }
+    
+    .instructions {
+        font-size: 2em;
+        }
 
 }
