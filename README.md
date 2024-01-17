@@ -41,6 +41,11 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 # Design
 
+## Planning 
+
+- The plan was always to keep the application as simple as possible while using simple colors and a basic structure. I'm still pretty new 
+  to coding so I'm trying to keep it as basic as possible while trying my best to meet the criteria. 
+
 ##  Color Palette
 
 The following colors were taken from [Coolors](https://coolors.co/).
@@ -98,6 +103,10 @@ Make sure the source is Deploy from a branch.
 
 Set the branch to "main" and click save.
 
+# Bugs 
+
+- I encountered no major bugs throughout deployment. 
+
 #  Credits
 
 - My mentor Spencer for his patience and guidance.
@@ -114,4 +123,4 @@ Set the branch to "main" and click save.
 
 [Fourth Tutorial](https://www.youtube.com/watch?v=FOD408a0EzU) (It took me a while to get the hang of functions.)
 
-- Another external resource I used was [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/.)
+- Another external resource I used was [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/.).
