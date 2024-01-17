@@ -18,9 +18,8 @@ Main technologies used were **HTML, CSS and JavaScript**.
   
 ![Start Game](assets/images/startgamebutton.png)
 
-- The project consists of 5 relatively easy sports questions. At the end, the user will have the option to "Try Again" or click "No Thanks"
-  which will then display the message "Thanks for playing". There is also a score counter and then the user will get oome feedback at the
-  end on how they scored.
+- The project consists of 5 relatively easy sports questions. The user will have the option to "Try Again" or click "No Thanks" when all questions are answered.
+  Pressing "Try Again" will restart the game while pressing "No Thanks" will display "Thanks for playing message" and end the game. There is also a score counter and then the user will get some feedback on how they scored at the end.
 
 ![End Game Options](assets/images/endgameoptions.png)
 
