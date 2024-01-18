@@ -49,6 +49,7 @@ gameArea.style.visibility = "hidden";
  */
 function startGame() {
     intro.style.visibility = "hidden";
+    intro.style.display = "none"; 
     gameArea.style.visibility = "visible";
     inGameLoop();
 }

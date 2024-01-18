@@ -53,6 +53,15 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 ![Smartphone Wireframe](assets/images/smartphonewireframe.png)
 
+# Testing 
+
+- I confirmed that the application worked on different browsers like Safari and Google Chrome. I copied the deployed site link and pasted into both browsers
+  and everything worked as intended including all buttons and internal link.
+
+- 
+
+
+
 # Design
 
 ##  Planning

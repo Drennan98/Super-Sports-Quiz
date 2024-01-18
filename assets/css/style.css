@@ -1,6 +1,9 @@
 /* Font for entire application */
 * {
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 /* General styles */
@@ -51,7 +54,6 @@ header {
 #gameArea {
     background-color: gold;
     border: 13px groove;
-    margin-top: -150px;
 }
 
 #center-answer {
@@ -64,6 +66,7 @@ button {
     text-align: center;
     font-size: 1.5em;
     border-radius: 12px;
+    padding: 1rem;
 }
 /* Score counter styles */ 
 
