@@ -20,6 +20,8 @@ Main technologies used were **HTML, CSS and JavaScript**.
   
 - I put relatively easy questions in the quiz so everyone has a chance to pass. I put in a small amount of questions to keep the user interested. 
 
+- I want the project to be responsive across different screen sizes. 
+
 # Features
 
 - "Super Sports Quiz" is a clickable link which can be reused to start the game at ease.
