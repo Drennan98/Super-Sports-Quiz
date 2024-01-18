@@ -118,3 +118,26 @@ a {
         }
 
 }
+
+@media screen and (max-width: 320px) {
+
+    #heading,
+    h2 {
+        font-size: 1.4em;
+    }
+
+    .instructions,
+    #copyright {
+        font-size: 0.9em;
+    }
+
+    button {
+        font-size: 1em;
+        line-height: 2;
+    }
+
+    #question {
+        font-size: 1.3em;
+    }
+
+}
