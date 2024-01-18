@@ -145,4 +145,6 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 - I want to thank the Slack community for helping me out when needed and providing valuable feedback.
 
-- The Code Institute tutors for responding to my queries. 
+- The Code Institute tutors for responding to my queries.
+
+- ChatGPT for generating some ideas on quiz layout. 
