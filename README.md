@@ -83,9 +83,9 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 [HTML Validation Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F).
 
-[CSS Validation results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
+[CSS Validation Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
-- JavaScript =
+[JavaScript Validation Results]()
 
 # Lighthouse Testing
 
@@ -134,3 +134,7 @@ You can find the live version of the site here [here](https://drennan98.github.i
 [Fourth Tutorial](https://www.youtube.com/watch?v=FOD408a0EzU) (It took me a while to get the hang of functions.)
 
 - Another external resource I used was [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/.).
+
+- My brother Sean, who took the time to test the project at various stages of development.
+
+- I used this [walkthrough](https://simplestepscode.com/javascript-quiz-tutorial/) to help me structure the array of questions in the JavaScript file.
