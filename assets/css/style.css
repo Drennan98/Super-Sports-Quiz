@@ -119,6 +119,8 @@ a {
 
 }
 
+/* For iPhone 4 screen size on "Am I Responsive?" */ 
+
 @media screen and (max-width: 320px) {
 
     #heading,
