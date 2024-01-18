@@ -8,6 +8,8 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 Main technologies used were **HTML, CSS and JavaScript**.
 
+![Responsive Application](assets/images/responsivequiz.png).
+
 #  Key Project Goals 
 
 - I wanted to make an interactive front-end application and incorporate the JavaScript material I have learned.
