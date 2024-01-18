@@ -142,3 +142,7 @@ You can find the live version of the site here [here](https://drennan98.github.i
 - My brother Sean, who took the time to test the project at various stages of development.
 
 - I used this [walkthrough](https://simplestepscode.com/javascript-quiz-tutorial/) to help me structure the array of questions in the JavaScript file.
+
+- I want to thank the Slack community for helping me out when needed and providing valuable feedback.
+
+- The Code Institute tutors for responding to my queries. 
