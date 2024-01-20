@@ -27,6 +27,7 @@ h2 {
     text-align: center;
     font-size: 2em;
     font-style: italic;
+    margin: 50px;
 }
 
 ol {
@@ -76,12 +77,15 @@ button {
     font-weight: 700;
     font-size: 1.25em;
     font-style: italic;
+    padding: 20px; 
 }
 
 #endGameDiv {
     text-align: center;
     background-color: gold;
     border: 13px groove;
+    margin: 50px;
+    line-height: 2;
 }
 
 /* Instruction styles */
