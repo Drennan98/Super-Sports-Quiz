@@ -61,6 +61,7 @@ header {
 #gameArea {
     background-color: gold;
     border: 13px groove;
+    margin: 20px;
 }
 
 #center-answer {
@@ -90,7 +91,8 @@ button {
     text-align: center;
     background-color: gold;
     border: 13px groove;
-    line-height: 2'
+    line-height: 2;
+    margin: 20px;
 }
 
 /* Instruction styles */
@@ -102,11 +104,16 @@ button {
     border: 13px groove;
     font-size: 2.4em;
     background-color: gold;
+    margin: 20px;
 }
 
 a {
     text-decoration: none;
     color: black;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 /* Copyright symbol styles */
