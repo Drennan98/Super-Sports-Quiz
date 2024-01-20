@@ -132,7 +132,8 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 #  Credits
 
-- My mentor Spencer for his patience and guidance.
+- My mentor Spencer for his patience and guidance. Particularly grateful for the extra help he gave me outside of mentoring sessions. We did an extra session 
+  in which he ran through some JavaScript with me and this is where it all started to click with me. 
 
 - I used my PP1 as a reference for my READme structure, but have added some different headings throughout the development process.
 
