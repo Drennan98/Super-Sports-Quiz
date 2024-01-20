@@ -10,6 +10,7 @@
 #heading {
     text-align: center;
     font-size: 3em;
+    padding: 10px;
 }
 
 h2 {
@@ -107,6 +108,7 @@ a {
     font-style: italic;
     border: 13px groove;
     background-color: gold;
+    padding: 10px;
 }
 
 /* Media queries below */
