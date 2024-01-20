@@ -98,7 +98,7 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 [CSS Validation Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
-[JavaScript Validation Results]()
+Passed my JavaScript code through [JShint](https://jshint.com/) and returned no significant errors. 
 
 # Lighthouse Testing
 
@@ -156,4 +156,4 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 - The Code Institute tutors for responding to my queries.
 
-- ChatGPT for generating some ideas on quiz layout. 
+- ChatGPT for generating some ideas on quiz layout.
