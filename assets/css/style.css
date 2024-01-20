@@ -11,6 +11,7 @@
     text-align: center;
     font-size: 3em;
     padding: 10px;
+    margin-bottom: 10
 }
 
 h2 {
@@ -38,7 +39,7 @@ ol {
 
 /* Palette from Coolors */
 body {
-    background-color: #134611;
+    background-color: #C455A8;
 }
 
 header {
@@ -69,7 +70,7 @@ button {
     font-size: 1.5em;
     border-radius: 12px;
     padding: 1rem;
-    margin: 10px;
+    margin: 8px;
 }
 /* Score counter styles */ 
 
@@ -85,8 +86,7 @@ button {
     text-align: center;
     background-color: gold;
     border: 13px groove;
-    margin: 50px;
-    line-height: 2;
+    line-height: 2'
 }
 
 /* Instruction styles */
