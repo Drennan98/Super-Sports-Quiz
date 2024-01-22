@@ -18,9 +18,9 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 - As a new site user, I want to keep track of my score and get my total score at the end.
 
-## Returning Site Users 
+##  Returning Site Users
 
-- As a returning user, I want to improve my score until I can get every question right. 
+- As a returning user, I want to improve my score until I can get every question right.
 
 #  Key Project Goals
 
