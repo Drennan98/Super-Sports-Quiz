@@ -38,7 +38,6 @@ h2 {
 ol {
     line-height: 2;
     font-size: 1.25em;
-    list-style-type: none;
 }
 
 /* Palette from Coolors */
@@ -105,6 +104,7 @@ button {
     background-color: gold;
     margin: 20px;
     padding-left: 40px;
+    list-style: auto;
 }
 
 /* Home link styles */ 
