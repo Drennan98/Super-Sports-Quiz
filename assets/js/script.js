@@ -57,7 +57,6 @@ function startGame() {
  * Function to display score. Score
  * is converted to a string.
  */
-
 function displayScore() {
     currentScore.innerText = score.toString();
 }
@@ -119,7 +118,6 @@ function endGame() {
 /**
  * byeBye function for displaying "Thanks for playing".
  */
-
 function byeBye() {
     endGameArea.innerHTML = "<h2>Thanks for playing! :)</h2>";
 }
