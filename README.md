@@ -10,7 +10,19 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 ![Responsive Application](assets/images/responsivequiz.png).
 
-#  Key Project Goals 
+#  User Stories
+
+##  New Site Users
+
+- As a new site user, I would like to play a simple quiz and test my basic sporting knowledge.
+
+- As a new site user, I want to keep track of my score and get my total score at the end.
+
+## Returning Site Users 
+
+- As a returning user, I want to improve my score until I can get every question right. 
+
+#  Key Project Goals
 
 - I wanted to make an interactive front-end application and incorporate the JavaScript material I have learned.
 
@@ -20,9 +32,9 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 - I wanted the application to be easy to navigate and user friendly.
   
-- I put relatively easy questions in the quiz so everyone has a chance to pass. I put in a small amount of questions to keep the user interested. 
+- I put relatively easy questions in the quiz so everyone has a chance to pass. I put in a small amount of questions to keep the user interested.
 
-- I want the project to be responsive across different screen sizes. 
+- I want the project to be responsive across different screen sizes.
 
 # Features
 
@@ -53,14 +65,12 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 ![Smartphone Wireframe](assets/images/smartphonewireframe.png)
 
-# Testing 
+#  Testing
 
 - I confirmed that the application worked on different browsers like Safari and Google Chrome. I copied the deployed site link and pasted into both browsers
   and everything worked as intended including all buttons and internal link.
 
-- 
-
-
+-
 
 # Design
 
@@ -82,7 +92,7 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 ## Layout
 
 - The application features a very simple layout. The heading, "Super Sports Quiz", followed by the instructions of the quiz on the landing page. The user
-  then has the option to press the "Start Game" button. 
+  then has the option to press the "Start Game" button.
 
 #  Testing
 
@@ -98,7 +108,7 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 [CSS Validation Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdrennan98.github.io%2FSuper-Sports-Quiz%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
-Passed my JavaScript code through [JShint](https://jshint.com/) and returned no significant errors. 
+Passed my JavaScript code through [JShint](https://jshint.com/) and returned no significant errors.
 
 # Lighthouse Testing
 
@@ -132,8 +142,8 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 #  Credits
 
-- My mentor Spencer for his patience and guidance. Particularly grateful for the extra help he gave me outside of mentoring sessions. We did an extra session 
-  in which he ran through some JavaScript with me and this is where it all started to click with me. 
+- My mentor Spencer for his patience and guidance. Particularly grateful for the extra help he gave me outside of mentoring sessions. We did an extra session
+  in which he ran through some JavaScript with me and this is where it all started to click with me.
 
 - I used my PP1 as a reference for my READme structure, but have added some different headings throughout the development process.
 
