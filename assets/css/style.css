@@ -104,7 +104,7 @@ button {
     background-color: gold;
     margin: 20px;
     padding-left: 40px;
-    list-style: auto;
+    list-style-type: auto;
 }
 
 /* Home link styles */ 
