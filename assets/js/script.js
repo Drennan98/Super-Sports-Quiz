@@ -39,8 +39,8 @@ const currentScore = document.getElementById("value");
 const endGameArea = document.getElementById("endGameDiv");
 let currentQuestion = 0; // Question the player is currently on 
 let score = 0; // Player score
-endGameArea.style.visibility = "hidden";
-gameArea.style.visibility = "hidden";
+endGameArea.style.display = "none";
+gameArea.style.display = "none";
 
 /** 
  * Start Game function which starts the game. 
@@ -48,9 +48,8 @@ gameArea.style.visibility = "hidden";
  * and you can start answering questions.
  */
 function startGame() {
-    intro.style.visibility = "hidden";
     intro.style.display = "none"; 
-    gameArea.style.visibility = "visible";
+    gameArea.style.display = "block";
     inGameLoop();
 }
 
@@ -113,8 +112,8 @@ function inGameLoop() {
  */
 function endGame() {
     points.innerText = score.toString();
-    gameArea.style.visibility = "hidden";
-    endGameArea.style.visibility = "visible";
+    gameArea.style.display = "none";
+    endGameArea.style.display = "block";
 }
 
 /**
