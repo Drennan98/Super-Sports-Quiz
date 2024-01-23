@@ -40,7 +40,7 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 - "Super Sports Quiz" is a clickable link which can be reused to start the game at ease.
 
-![Home Link](assets/images/SSQclickablelink.png)
+![Home Link](assets/images/ssqclickablelink.png)
 
 - Press "Start Game" to start the game and test your basic sport knowledge.
   
