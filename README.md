@@ -8,7 +8,7 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 ![Responsive Application](assets/images/responsivequiz.png).
 
-# Technologies Used 
+#  Technologies Used
 
 - Main technologies used were **HTML, CSS and JavaScript**.
 
@@ -19,7 +19,7 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 - [HTML Validator](https://validator.w3.org/#validate_by_uri)
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
-- 
+
 #  User Stories
 
 ##  New Site Users
@@ -99,14 +99,13 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 #  Testing
 
-- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback. 
+- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback.
 
 - I sent the quiz to some friends to test out the functionality of the quiz and it got a positive response. They checked that all buttons worked properly
   and internal links worked fine too.
 
 - I confirmed that the application worked on different browsers like Safari and Google Chrome. I copied the deployed site link and pasted into both browsers
   and everything worked as intended including all buttons and internal link.
-
 
 #  Validations
 
