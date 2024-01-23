@@ -80,7 +80,7 @@ The following colors were taken from [Coolors](https://coolors.co/).
 
 ##  Fonts
 
-The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
+The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif. These were taken from [Google Fonts](https://fonts.google.com/).
 
 ## Layout
 
