@@ -65,9 +65,6 @@ Main technologies used were **HTML, CSS and JavaScript**.
 
 ![Smartphone Wireframe](assets/images/smartphonewireframe.png)
 
-- I confirmed that the application worked on different browsers like Safari and Google Chrome. I copied the deployed site link and pasted into both browsers
-  and everything worked as intended including all buttons and internal link.
-
 # Design
 
 ##  Planning
@@ -92,11 +89,10 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 #  Testing
 
-- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback.
+- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback. 
 
-- I confirmed that this website works on different browsers like Safari and Google Chrome.
-
-- I sent the quiz to some friends to test out the functionality of the quiz and it got a positive response.
+- I sent the quiz to some friends to test out the functionality of the quiz and it got a positive response. They checked that all buttons worked properly
+  and internal links worked fine too.
 
 - I confirmed that the application worked on different browsers like Safari and Google Chrome. I copied the deployed site link and pasted into both browsers
   and everything worked as intended including all buttons and internal link.
