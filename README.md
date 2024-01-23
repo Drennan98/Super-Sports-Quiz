@@ -6,10 +6,20 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 I went with a sports quiz idea as I'm passionate about sport and thought it would be easy to develop.
 
-Main technologies used were **HTML, CSS and JavaScript**.
-
 ![Responsive Application](assets/images/responsivequiz.png).
 
+# Technologies Used 
+
+- Main technologies used were **HTML, CSS and JavaScript**.
+
+- [GitHub](https://github.com/dashboard)
+
+- [Am I Responsive?](https://ui.dev/amiresponsive)
+
+- [HTML Validator](https://validator.w3.org/#validate_by_uri)
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
+- 
 #  User Stories
 
 ##  New Site Users
@@ -162,5 +172,3 @@ You can find the live version of the site here [here](https://drennan98.github.i
 - I want to thank the Slack community for helping me out when needed and providing valuable feedback.
 
 - The Code Institute tutors for responding to my queries.
-
-- ChatGPT for generating some ideas on quiz layout.
