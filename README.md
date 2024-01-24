@@ -171,3 +171,10 @@ You can find the live version of the site here [here](https://drennan98.github.i
 - I want to thank the Slack community for helping me out when needed and providing valuable feedback.
 
 - The Code Institute tutors for responding to my queries.
+
+# Future Project Goals 
+
+- Adding more questions might be a feature to give the quiz longevity.
+
+- A leaderboard feature might be something to add in so users can compare scores.
+
