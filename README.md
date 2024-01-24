@@ -82,13 +82,13 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 ##  Planning
 
 - The plan was always to keep the application as simple as possible while using simple colors and a basic structure. I'm still pretty new
-  to coding so I'm trying to keep it as basic as possible while trying my best to meet the criteria. 
+  to coding so I'm trying to keep it as basic as possible while trying my best to meet the criteria.
 
 ##  Color Palette
 
 The following colors were taken from [Coolors](https://coolors.co/).
 
-- #DDD1C7, #3ec300, #C455A8 were some of the colors used.
+- #DDD1C7, #3ec300, #C455A8 were some of the colors used. I also used some basic colors, like gold.
 
 ##  Fonts
 
@@ -174,9 +174,8 @@ You can find the live version of the site here [here](https://drennan98.github.i
 
 - The Code Institute tutors for responding to my queries.
 
-# Future Project Goals 
+#  Future Project Goals
 
 - Adding more questions might be a feature to give the quiz longevity.
 
 - A leaderboard feature might be something to add in so users can compare scores.
-
