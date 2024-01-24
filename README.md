@@ -20,7 +20,7 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
 
-- [JSHint[](https://jshint.com/)
+- [JSHint](https://jshint.com/)
 
 #  User Stories
 
@@ -44,7 +44,7 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 - I wanted the application to be easy to navigate and user friendly.
   
-- I put relatively easy questions in the quiz so everyone has a chance to pass. I put in a small amount of questions to keep the user interested.
+- I put relatively easy questions in the quiz so everyone has a chance to get a question or two right. I put in a small amount of questions to keep the user interested.
 
 - I want the project to be responsive across different screen sizes.
 
