@@ -20,6 +20,8 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
 
+- [JSHint[](https://jshint.com/)
+
 #  User Stories
 
 ##  New Site Users
