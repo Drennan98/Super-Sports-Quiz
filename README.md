@@ -80,7 +80,7 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 ##  Planning
 
 - The plan was always to keep the application as simple as possible while using simple colors and a basic structure. I'm still pretty new
-  to coding so I'm trying to keep it as basic as possible while trying my best to meet the criteria.
+  to coding so I'm trying to keep it as basic as possible while trying my best to meet the criteria. 
 
 ##  Color Palette
 
