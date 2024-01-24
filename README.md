@@ -97,7 +97,7 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 ## Layout
 
 - The application features a very simple layout. The heading, "Super Sports Quiz", followed by the instructions of the quiz on the landing page. The user
-  then has the option to press the "Start Game" button.
+  then has the option to press the "Start Game" button. All features are laid out in order of importance.
 
 #  Testing
 
@@ -108,7 +108,7 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
   and internal links worked fine too.
 
 - I confirmed that the application worked on different browsers like Safari and Google Chrome. I copied the deployed site link and pasted into both browsers
-  and everything worked as intended including all buttons and internal link.
+  and everything worked as intended including all buttons and internal links.
 
 #  Validations
 
