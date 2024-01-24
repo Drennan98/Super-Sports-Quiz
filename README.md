@@ -101,7 +101,8 @@ The fonts used were Gill Sans, Gill Sans MT, Calibri, Trebuchet MS", sans-serif.
 
 #  Testing
 
-- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback.
+- One of the first thing I did was send into the Peer Code Review on Slack for testing and feedback. Getting an extra pair of eyes to look at my project is always beneficial
+  as they might spot something which I didn't see.
 
 - I sent the quiz to some friends to test out the functionality of the quiz and it got a positive response. They checked that all buttons worked properly
   and internal links worked fine too.
@@ -179,3 +180,7 @@ You can find the live version of the site here [here](https://drennan98.github.i
 - Adding more questions might be a feature to give the quiz longevity.
 
 - A leaderboard feature might be something to add in so users can compare scores.
+
+- For developing this project further, I want to improve my commit messages. I was given a helpful guide on commit messages in my PP1 feedback but I just got
+  so engrossed in making the project work and function properly that it slipped my mind. This is something I can work on for future projects or should I go back
+  to develop this project more.
