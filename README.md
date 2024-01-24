@@ -18,7 +18,7 @@ I went with a sports quiz idea as I'm passionate about sport and thought it woul
 
 - [HTML Validator](https://validator.w3.org/#validate_by_uri)
 
-- [CSS Validator]()
+- [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri)
 
 #  User Stories
 
